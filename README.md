@@ -6,7 +6,7 @@ This software enables you to modify player inventories and Ender Chest contents 
 
 This software is currently in development and is expected to be released by April 2025.
 
-## Technical Infos
+## Technical Info
 
 - written in C# .NET 8
 - UI Framework: WPF
