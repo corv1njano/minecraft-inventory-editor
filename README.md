@@ -1,4 +1,4 @@
-# minecraft-inventory-editor
+# Minecraft Java Inventory Editor
 
 This software enables you to modify player inventories and Ender Chest contents for any player in a Minecraft world.
 
